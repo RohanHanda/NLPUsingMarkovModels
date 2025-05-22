@@ -44,4 +44,4 @@ These projects are meant for educational purposes and are directly inspired by t
 
 If you have any questions or suggestions, feel free to reach out:
 
-Email: rohan_handa@outlook.com
+Email: https://www.linkedin.com/in/rohan-handa-750564307/
