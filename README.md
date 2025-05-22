@@ -29,6 +29,12 @@ The projects in this repository are based on the above mentioned Udemy course th
 - Evaluating generated text for coherence and variety
 - Applying genetic algorithms for text analysis
 - Building cipher decryption algorithms, spam detector, sentiment analysis tool and an article spinner
+
+## Project Descriptions
+
+- CipherDecrypter : This code decrypts a simple substitution cipher using probabilities learned from English text (like Moby Dick). It creates a random cipher (letter substitution), learns letter and word probabilities from real text, scores how likely a decoded message is, tries to guess the original message using these scores.
+  
+- PoetryGenerator : This notebook trains a Markov chain-based text generator using poetry by Robert Frost. It builds probability dictionaries from word sequences (first- and second-order Markov models). Then, it uses these probabilities to generate new poetry that mimics Frost’s style.
   
 
 ## ✅ Status
