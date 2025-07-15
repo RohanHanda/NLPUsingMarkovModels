@@ -36,6 +36,13 @@ The projects in this repository are based on the above mentioned Udemy course th
   
 - PoetryGenerator : This notebook trains a Markov chain-based text generator using poetry by Robert Frost. It builds probability dictionaries from word sequences (first- and second-order Markov models). Then, it uses these probabilities to generate new poetry that mimics Frost’s style.
   
+- BasicSentimentAnalyser : The notebook builds a basic sentiment analysis model using the NLTK movie reviews dataset. It extracts features from text (like word presence), trains a Naive Bayes classifier, and evaluates accuracy. The model then predicts whether new sentences express positive or negative sentiment. It uses supervised learning with simple bag-of-words features.
+
+- LatentSemanticAnalyser : The notebook performs Latent Semantic Analysis (LSA) using TF-IDF vectorization followed by Truncated SVD for dimensionality reduction.
+It tells us about the hidden relationships between terms and documents by projecting them into a latent semantic space. This helps capture synonymy and contextual meaning beyond surface-level word matching.
+
+- ArticleSpinner : Its my own take at an article spinner that takes reviews as input and with the help of various markov models tries to spin the review in its own terms
+  
 
 ## ✅ Status
 
